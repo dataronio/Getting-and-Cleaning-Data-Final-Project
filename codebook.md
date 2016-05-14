@@ -51,5 +51,5 @@ A leading f --> "frequencyDomain"
 "Acc" --> "acceleration"
 "Mag" --> "Magnitude"
 
-Finally, the **value** variable contains the grouped mean over **subjectid* and **activity**.
+Finally, the **value** variable contains the grouped mean over **subjectid** and **activity**.
 
