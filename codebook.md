@@ -47,8 +47,11 @@ Note that variables that end in "-XYZ" are really 3 separate variables that meas
 For step 4 of the analysis, the following substitutions were made in the above variable names to improve understandability.
 
 A leading t --> "timeDomain"
+
 A leading f --> "frequencyDomain"
+
 "Acc" --> "acceleration"
+
 "Mag" --> "magnitude"
 
 Finally, the **value** variable contains the grouped mean over **subjectid** and **activity**.
