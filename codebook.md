@@ -4,7 +4,7 @@ codebook.md
 Introduction:
 ---------------------------------------------------------------
 
-Refer to the README.md file for details regarding the data collection and overall format.  This project entails analyzing subjectid, activity and 66 other measurement variables by taking the grouped mean of the measurement variables over all combinations of **subjectid** and **activity**.  Details regarding the data can be found in [UCI-machine-Learning-Repository Human Activity Recognition] (https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).  Relevant research papers can be referenced at that sight for greater detail regarding the units of the measurement variables.
+Refer to the README.md file for details regarding the data collection and overall format of the project.  This project entailed analyzing subjectid, activity and 66 other measurement variables by taking the grouped mean of the measurement variables over all combinations of **subjectid** and **activity**.  Details regarding the data can be found in [UCI-machine-Learning-Repository Human Activity Recognition] (https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).  Relevant research papers can be referenced at the above website for greater detail regarding the units of the measurement variables.
 
 Variable details:
 ---------------------------------------------------------------
