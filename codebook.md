@@ -24,23 +24,23 @@ The names above are substituted for the integers 1-6 to represent the **activity
 
 The following **measurement** variables are used in the data analysis.
 
-*tBodyAcc-XYZ
-*tGravityAcc-XYZ
-*tBodyAccJerk-XYZ
-*tBodyGyro-XYZ
-*tBodyGyroJerk-XYZ
-*tBodyAccMag
-*tGravityAccMag
-*tBodyAccJerkMag
-*tBodyGyroMag
-*tBodyGyroJerkMag
-*fBodyAcc-XYZ
-*fBodyAccJerk-XYZ
-*fBodyGyro-XYZ
-*fBodyAccMag
-*fBodyAccJerkMag
-*fBodyGyroMag
-*fBodyGyroJerkMag
+* tBodyAcc-XYZ
+* tGravityAcc-XYZ
+* tBodyAccJerk-XYZ
+* tBodyGyro-XYZ
+* tBodyGyroJerk-XYZ
+* tBodyAccMag
+* tGravityAccMag
+* tBodyAccJerkMag
+* tBodyGyroMag
+* tBodyGyroJerkMag
+* fBodyAcc-XYZ
+* fBodyAccJerk-XYZ
+* fBodyGyro-XYZ
+* fBodyAccMag
+* fBodyAccJerkMag
+* fBodyGyroMag
+* fBodyGyroJerkMag
 
 Note that variables that end in "-XYZ" are really 3 separate variables that measure the X-axis, Y-axis and the Z-axis.  There are a total of 33 variables in the above list.  A mean value (mean()) and a standard deviation (std()) were measured from the above 33 variables.  This makes a total of 66 feature variable columns that were subsetted from the train and test datasets.
 
@@ -49,7 +49,7 @@ For step 4 of the analysis, the following substitutions were made in the above v
 A leading t --> "timeDomain"
 A leading f --> "frequencyDomain"
 "Acc" --> "acceleration"
-"Mag" --> "Magnitude"
+"Mag" --> "magnitude"
 
 Finally, the **value** variable contains the grouped mean over **subjectid** and **activity**.
 
